@@ -1,0 +1,38 @@
+.ui.grid > .row {
+  height: 100vh;
+}
+
+.ui.form input[type=text],
+.ui.form textarea {
+  background: transparent;
+  color: #011627;
+}
+
+.ui.inverted.teal.menu {
+  background-color: rgba(0, 181, 173, 0.8);
+}
+
+
+.my-content .ui.segment{
+  min-height:500px;
+  height:100%;
+}
+.ui.grid{
+  padding:0 !important;
+}
+.pushable.segment{
+  margin:0 !important;
+}
+
+.ui.label.basic {
+  background-color: #2EC4B6;
+}
+.ui.label.demo{
+  background-color: #FF9F1C
+}
+.ui.label.year{
+  background-color: #E71D36
+}
+.slick-arrow {
+  color: black;
+}
